@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.67bfb4b4.css",
+    "main.js": "/React-Portfolio/static/js/main.a501114f.js",
+    "static/media/SherpaStudios.png": "/React-Portfolio/static/media/SherpaStudios.33045a804b075800624f.png",
+    "static/media/beer-n-bites.png": "/React-Portfolio/static/media/beer-n-bites.8d1c91dc54e17d4489a5.png",
+    "static/media/FPW-HEADSHOT-Sahen_Garcia - Copy.jpg": "/React-Portfolio/static/media/FPW-HEADSHOT-Sahen_Garcia - Copy.0a674f28594ce568ca13.jpg",
+    "static/media/ConcertCrawler.png": "/React-Portfolio/static/media/ConcertCrawler.451f74f0f9cb35529da7.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.67bfb4b4.css.map": "/React-Portfolio/static/css/main.67bfb4b4.css.map",
+    "main.a501114f.js.map": "/React-Portfolio/static/js/main.a501114f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67bfb4b4.css",
+    "static/js/main.a501114f.js"
+  ]
+}
